@@ -1,8 +1,8 @@
 <div align="center">
-  ![banner](https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/assets/frutiger.png)
+  <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/assets/frutiger.png" style="max-width: 100%;" alt="banner" />
   <br />
   <br />
-  <img height="50" alt="My Name is crevant" src="name.svg" />
+  <img height="50" alt="My Name is crevant" src="assets/name.svg" />
   <br />
   <br />
 </div>
