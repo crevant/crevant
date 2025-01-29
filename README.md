@@ -3,12 +3,14 @@
   <br />
   <br />
   <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/assets/name.svg" height=50px alt="My Name is crevant" />
+</div>
   <br />
   <br />
+  <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/window1.svg" height=100px alt="about_me.exe" />
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/window1.svg" height=400px alt="this is a test" />
-  <br />
+  <br />  
+<div align="center">
   <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/assets/netscape.gif" height=35px alt="This page is best viewed with Netscape" />
   <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/assets/windows95.gif" height=35px alt="Windows95" />
   <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/assets/acrobat.gif" height=35px alt="Get Acrobat Reader" />
