@@ -6,7 +6,7 @@
 </div>
   <br />
   <br />
-  <img src="" height=100px alt="about_me.exe" />
+  <img src="https://raw.githubusercontent.com/crevant/crevant/refs/heads/main/window1.svg" height=100px alt="about_me.exe" />
   <br />
   <br />
   <br />  
